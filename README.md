@@ -11,6 +11,6 @@ Requirements for run
 ### Running
 On your computer terminal runs the command below
 
-  docker compose up -d
+    docker compose up -d
   
 and :tada:, your cluster is done
